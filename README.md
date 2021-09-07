@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Android-FHIR sdk
-- 🌱 I’m currently learning GRPC GOLANG, Firebase Cloud Functions, GCP
+- 🌱 I’m currently learning GRPC GOLANG, Android, FHIR , Protocol buffers
 - 🏥 GSoC'21 at Google FHIR SDK
 - 📝 GSoC [Work Product](https://gist.github.com/epicadk/80c3c172074868aac2076f5d4c1cfb85)
 
