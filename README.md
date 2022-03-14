@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Android-FHIR sdk
-- 🌱 I’m currently learning Android, FHIR , Protocol buffers, code genertion
+- 🔭 I’m currently working on Android-FHIR sdk, Kotlin MultiPlatform
+- 🌱 I’m currently learning Android, FHIR , Protocol buffers, Code genertion, KMM
 - 🏥 GSoC'21 at Google FHIR SDK
 - 📝 GSoC [Work Product](https://gist.github.com/epicadk/80c3c172074868aac2076f5d4c1cfb85)
 
